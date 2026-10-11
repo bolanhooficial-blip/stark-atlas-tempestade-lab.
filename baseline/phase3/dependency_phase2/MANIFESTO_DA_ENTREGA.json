@@ -1,0 +1,151 @@
+{
+  "bundle": "ECO_FASE2",
+  "created": "2026-10-09",
+  "files": [
+    {
+      "path": "INTEGRITY_VERIFY.py",
+      "sha256": "b8745d7ac487bdbefb1bc2b6940f89c34d63fe5de7067c11ed904d910c2930e5",
+      "size_bytes": 563
+    },
+    {
+      "path": "README.md",
+      "sha256": "6bde691397a21e8ea7353c95f5c7daf184d96c685ad3716b5e1f416e8d4e9f4c",
+      "size_bytes": 1101
+    },
+    {
+      "path": "REGRESSAO_FASE1.log",
+      "sha256": "2a678dfd14cac11d1e05da166b8adc51eb349efd39781cb2a66ceaa32381e55f",
+      "size_bytes": 98
+    },
+    {
+      "path": "REGRESSAO_ORIGINAL.log",
+      "sha256": "17a82e01a11f4aa0bcfadc25f6b30cd8278d51f71c51547367c745fca25b2ebe",
+      "size_bytes": 99
+    },
+    {
+      "path": "RELATORIO_FASE2.md",
+      "sha256": "6aa2515f1e314e69b8b5aa71e2cd2363b64064278c6ad2e49dedfe527749d073",
+      "size_bytes": 7066
+    },
+    {
+      "path": "VENDOR_BASELINE_HASHES.json",
+      "sha256": "4b4e91df6018f7f88d2ffee2df89713f7add06ce1c19e76416ff03a6c1e16213",
+      "size_bytes": 3426
+    },
+    {
+      "path": "bypass_probe.log",
+      "sha256": "c082b28049418ef17798014f1d7a4cd6dc60323914df9ab4486c9857aba3fc25",
+      "size_bytes": 177
+    },
+    {
+      "path": "pilot_runtime.py",
+      "sha256": "0609d284d09fb9dceea02f20ef4a1a6fb811d97572e96dec20093d5eaf214704",
+      "size_bytes": 13978
+    },
+    {
+      "path": "probe_direct_bypass.py",
+      "sha256": "4097455684c9839b79ddff08f988519dc56115c7f64487da6012ba44f245ff22",
+      "size_bytes": 1590
+    },
+    {
+      "path": "test_phase2_results.log",
+      "sha256": "f44e8fe52576771a91e3eaba7b2ff0d7b25048f5e0670a5da3447622b806974c",
+      "size_bytes": 98
+    },
+    {
+      "path": "test_pilot_runtime.py",
+      "sha256": "29b8ca333935e133f818a7371118fa44d93cc27b31899b24c3081b672af6d3c9",
+      "size_bytes": 14848
+    },
+    {
+      "path": "vendor_snapshots/acg_guard.py",
+      "sha256": "d33f43e6cbef3cf3565a6f1962ef3373244b90f88eb18b246e76003fd202bf5c",
+      "size_bytes": 3103
+    },
+    {
+      "path": "vendor_snapshots/atlas_visual_layer.py",
+      "sha256": "b41d3c46b57863b1cfd7f8653ba868d12e5e798e30bc003eafc2c1fc1042fcc7",
+      "size_bytes": 12442
+    },
+    {
+      "path": "vendor_snapshots/ecosystem_eicf.py",
+      "sha256": "111d25d10a511b802607bfa6cc2eb65fccebad6b7604f03eac498eedb7d7cf89",
+      "size_bytes": 38206
+    },
+    {
+      "path": "vendor_snapshots/security_boundary.py",
+      "sha256": "ce859b6a07b91cb000dc78d57e1a3e0d438431112d0882d8de5c5ba8d7b64d70",
+      "size_bytes": 18565
+    },
+    {
+      "path": "vendor_snapshots/stark_cad_reconstruct.py",
+      "sha256": "228704595fa262a6cb7c4cf90cd70d959563e038b55058d4c05a2de59a0cd5b3",
+      "size_bytes": 34085
+    },
+    {
+      "path": "vendor_snapshots/stark_core.py",
+      "sha256": "546ee1872299462e6701f2dff0901343272c9da6940909eb0d47105d06b43da1",
+      "size_bytes": 18029
+    },
+    {
+      "path": "vendor_snapshots/stark_decision.py",
+      "sha256": "b86ade98629707d2efa9db460b6a73a76d3076fba992bd68749482ab8b32ee38",
+      "size_bytes": 16333
+    },
+    {
+      "path": "vendor_snapshots/stark_geometry.py",
+      "sha256": "d40aa1f5241b801435c7dbbe14ffbe78a0c400b15e879d6d941ab36cbcc3a68c",
+      "size_bytes": 18092
+    },
+    {
+      "path": "vendor_snapshots/stark_geometry_3d.py",
+      "sha256": "0d9119dc38de5b07fb7cc702de2024900b55165b0c9c41151e76b90c1615cccc",
+      "size_bytes": 21864
+    },
+    {
+      "path": "vendor_snapshots/stark_ingest.py",
+      "sha256": "88a52a43bffaf4758b94353c8c029f6d7360dff551371f15a8172151f7112c79",
+      "size_bytes": 8364
+    },
+    {
+      "path": "vendor_snapshots/stark_normative.py",
+      "sha256": "892c99d5fcf6374e22a14d178f36d1cfed07497579094e6799bc81d04a43b81f",
+      "size_bytes": 29374
+    },
+    {
+      "path": "vendor_snapshots/stark_orchestrator.py",
+      "sha256": "468c8b58eb752730f280efc7aaa5ec2d2c7963506558169336442f2d398b0f3c",
+      "size_bytes": 39197
+    },
+    {
+      "path": "vendor_snapshots/stark_provenance.py",
+      "sha256": "132f485d9c37f022b198f3f0a0763ae5887f3a66f5ec2902c18d071a39556d9f",
+      "size_bytes": 16298
+    },
+    {
+      "path": "vendor_snapshots/stark_reconcile.py",
+      "sha256": "5b52ef6205dce23ace545ab483bdd4bb184730014d0bf1924c3b6e317070340f",
+      "size_bytes": 18836
+    },
+    {
+      "path": "vendor_snapshots/stark_risk.py",
+      "sha256": "e4075ac32778d14627ec5da809150b99b4d2480d1eeebcffb4f08fd682943bf9",
+      "size_bytes": 12531
+    },
+    {
+      "path": "vendor_snapshots/stark_teil.py",
+      "sha256": "99b7817f7f81b04b50a0d0f5cad9a095443b3fd235a7344c3e426fd3b69b7f2b",
+      "size_bytes": 11796
+    },
+    {
+      "path": "vendor_snapshots/stark_zones.py",
+      "sha256": "44aae6e656f400dfaba12e064ac00ba5ac7becf43d6a1fb761c19f2196a43492",
+      "size_bytes": 13602
+    },
+    {
+      "path": "vendor_snapshots/unified_ecosystem.py",
+      "sha256": "d4c413f483e78ff6bd1ed7bac27f26d0e4040a630b86bf56623a0f25ef7e9328",
+      "size_bytes": 2586
+    }
+  ]
+}

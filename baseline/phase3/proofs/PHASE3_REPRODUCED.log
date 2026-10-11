@@ -1,0 +1,48 @@
+test_31_private_workdir_has_nonshared_uid (test_phase3.ExpandedPhase3Tests.test_31_private_workdir_has_nonshared_uid) ... ok
+test_32_document_hash_change_new_context_key (test_phase3.ExpandedPhase3Tests.test_32_document_hash_change_new_context_key) ... ok
+test_33_output_no_project_leak (test_phase3.ExpandedPhase3Tests.test_33_output_no_project_leak) ... ok
+test_34_ledger_rejects_changed_state (test_phase3.ExpandedPhase3Tests.test_34_ledger_rejects_changed_state) ... ok
+test_35_ledger_rejects_deleted_run (test_phase3.ExpandedPhase3Tests.test_35_ledger_rejects_deleted_run) ... ok
+test_36_ledger_rejects_changed_project (test_phase3.ExpandedPhase3Tests.test_36_ledger_rejects_changed_project) ... ok
+test_37_failure_state_rejects_retry (test_phase3.ExpandedPhase3Tests.test_37_failure_state_rejects_retry) ... ok
+test_38_incomplete_previous_run_is_not_auto_promoted (test_phase3.ExpandedPhase3Tests.test_38_incomplete_previous_run_is_not_auto_promoted) ... ok
+test_39_context_isolated_across_normative_profiles (test_phase3.ExpandedPhase3Tests.test_39_context_isolated_across_normative_profiles) ... ok
+test_40_no_script_execution_parameter (test_phase3.ExpandedPhase3Tests.test_40_no_script_execution_parameter) ... ok
+test_41_manifest_version_untouched (test_phase3.ExpandedPhase3Tests.test_41_manifest_version_untouched) ... ok
+test_42_audit_atomic_duplicate_two_connections (test_phase3.ExpandedPhase3Tests.test_42_audit_atomic_duplicate_two_connections) ... ok
+test_43_private_installation_directory_can_launch_sandbox (test_phase3.ExpandedPhase3Tests.test_43_private_installation_directory_can_launch_sandbox) ... ok
+test_01_real_classification_in_namespace (test_phase3.Phase3Tests.test_01_real_classification_in_namespace) ... ok
+test_02_namespace_isolation (test_phase3.Phase3Tests.test_02_namespace_isolation) ... ok
+test_03_atlas_render_in_namespace (test_phase3.Phase3Tests.test_03_atlas_render_in_namespace) ... ok
+test_04_duplicate_run_blocked (test_phase3.Phase3Tests.test_04_duplicate_run_blocked) ... ok
+test_05_change_project_new_run (test_phase3.Phase3Tests.test_05_change_project_new_run) ... ok
+test_06_change_revision_new_run (test_phase3.Phase3Tests.test_06_change_revision_new_run) ... ok
+test_07_change_normative_edition_new_run (test_phase3.Phase3Tests.test_07_change_normative_edition_new_run) ... ok
+test_08_change_ruleset_new_run (test_phase3.Phase3Tests.test_08_change_ruleset_new_run) ... ok
+test_09_source_changed_blocks_before_worker (test_phase3.Phase3Tests.test_09_source_changed_blocks_before_worker) ... ok
+test_10_source_symlink_rejected (test_phase3.Phase3Tests.test_10_source_symlink_rejected) ... ok
+test_11_path_traversal_docid_rejected (test_phase3.Phase3Tests.test_11_path_traversal_docid_rejected) ... ok
+test_12_abs_path_docid_rejected (test_phase3.Phase3Tests.test_12_abs_path_docid_rejected) ... ok
+test_13_engine_route_STARK (test_phase3.Phase3Tests.test_13_engine_route_STARK) ... ok
+test_14_engine_route_ATLAS (test_phase3.Phase3Tests.test_14_engine_route_ATLAS) ... ok
+test_15_spda_execution_forbidden (test_phase3.Phase3Tests.test_15_spda_execution_forbidden) ... ok
+test_16_release_forbidden (test_phase3.Phase3Tests.test_16_release_forbidden) ... ok
+test_17_arbitrary_operation_forbidden (test_phase3.Phase3Tests.test_17_arbitrary_operation_forbidden) ... ok
+test_18_probe_disabled_by_default (test_phase3.Phase3Tests.test_18_probe_disabled_by_default) ... ok
+test_19_param_path_injection_rejected (test_phase3.Phase3Tests.test_19_param_path_injection_rejected) ... ok
+test_20_source_set_mismatch (test_phase3.Phase3Tests.test_20_source_set_mismatch) ... ok
+test_21_unsupported_source (test_phase3.Phase3Tests.test_21_unsupported_source) ... ok
+test_22_pdf_output_hash (test_phase3.Phase3Tests.test_22_pdf_output_hash) ... ok
+test_23_ledger_hmac_detects_modified_record (test_phase3.Phase3Tests.test_23_ledger_hmac_detects_modified_record) ... ok
+test_24_event_hmac_detects_mutation (test_phase3.Phase3Tests.test_24_event_hmac_detects_mutation) ... ok
+test_25_anchor_detects_deletion (test_phase3.Phase3Tests.test_25_anchor_detects_deletion) ... ok
+test_26_key_file_permissions (test_phase3.Phase3Tests.test_26_key_file_permissions) ... ok
+test_27_namespace_dependency_fail_closed (test_phase3.Phase3Tests.test_27_namespace_dependency_fail_closed) ... ok
+test_28_attempt_state_is_durable (test_phase3.Phase3Tests.test_28_attempt_state_is_durable) ... ok
+test_29_no_external_client_project (test_phase3.Phase3Tests.test_29_no_external_client_project) ... ok
+test_30_bad_params_bbox (test_phase3.Phase3Tests.test_30_bad_params_bbox) ... ok
+
+----------------------------------------------------------------------
+Ran 43 tests in 32.386s
+
+OK
